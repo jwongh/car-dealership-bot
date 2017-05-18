@@ -1,10 +1,10 @@
 # Car Dealership Bot
 
-A Bot demo on a messenging application for a car dealership to redirect customers to the proper department.
+A Bot demo on a messaging application/apps for a car dealership to redirect customers to their destinated department.
 
 ## Getting Started
 
-Run the project on Visual Studio. Connect the Bot Framework Emulator to the url of the project.
+Download and install the following prerequisites on your Windows PC.
 
 ### Prerequisites
 
@@ -14,8 +14,15 @@ Run the project on Visual Studio. Connect the Bot Framework Emulator to the url 
 
 ## Running the demo
 
-Explain how to run the automated tests for this system
+1. From the `jwongh/car-dealership-bot` repository, download the source files to your local directory.
+2. Open the project under Visual Studio 2017 and restore any missing nuget packages.
+3. Build and run the project under Visual Studio 2017, a new page will be loaded on your browser.
+4. Open url in the emulator, and connect.
 
 ## Author
 
 * **Jimmy Wong**
+
+## Reference
+
+* https://docs.microsoft.com/en-us/Bot-Framework/index
